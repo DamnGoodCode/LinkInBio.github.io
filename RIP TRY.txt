@@ -1,8 +1,12 @@
- RIP TRY
- 
-Had to let it die 
-Never added nothing and wont be missed
-frfr prolly dont even exist!
-Do or dont. Make up your mind
-Because trying is wasting time. 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sunshine Sauce</title>
+</head>
+<body>
 
+<h1>RIP TRY</h1>
+<p>  PLACEholder for text </p>
+
+</body>
+</html>
